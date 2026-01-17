@@ -29,6 +29,7 @@ NumPy: For numerical operations.
 Matplotlib & Seaborn: For creating insightful static visualizations (histograms, bar charts, heatmaps).
 
 📈 Key Insights from the Analysis
+
 Gender: Female passengers had a significantly higher survival rate compared to males, reflecting the "women and children first" policy.
 
 Socio-economic Status: Passengers in 1st Class had the highest survival rate, while those in 3rd Class faced the highest mortality rate.
