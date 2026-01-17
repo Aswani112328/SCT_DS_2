@@ -36,4 +36,5 @@ Socio-economic Status: Passengers in 1st Class had the highest survival rate, wh
 
 Age: Younger children had better survival odds, while the majority of passengers were in the 20–40 age range.
 
-Missing Data: Significant missing values were identified in the Age and Cabin columns, which required handling/imputation before analysis.# SCT_DS_2
+Missing Data: Significant missing values were identified in the Age and Cabin columns, which required handling/imputation before analysis.
+# SCT_DS_2
